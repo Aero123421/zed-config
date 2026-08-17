@@ -1,0 +1,10 @@
+# Zed が自動生成するファイルは管理しない
+AGENTS.md
+
+# 今後増える機械固有のファイル・フォルダ
+db/
+logs/
+sessions/
+cache/
+tmp/
+*.sqlite
